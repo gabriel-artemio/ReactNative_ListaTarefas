@@ -1,6 +1,6 @@
 # Lista-de-Tarefas
 
-✔️ Tenha uma lista de tarefas no seu celular, com uma aplicação React Native
+✔️ Tenha uma lista de tarefas no seu celular, com uma aplicação React Native <br>
 ✔️ Com o uso do AsyncStorage, tenha as suas tarefas armazenadas no seu aparelho, assim você não corre o risco de perdê-las ao fechar a aplicação.
 
 ### Tecnologia utilizada neste projeto:
